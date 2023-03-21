@@ -1,22 +1,22 @@
-# Basic-App-Tests
+# Basic-App-Test-Kotlin
 
-Just a repository with code I'm using to to practice development for android using Kotlin+xml, Java+xml, Swift, and objective-C
+Using Kotlin and xml I made a basic app used to calculate how much a grade is worth overall based on its weight.
 
-<b>Completed:</b><br>
-Kotlin+xml for Android
-
-Next up:<br>
-Java+xml
+### Versions
+[<b>Kotlin</b>](https://github.com/Wavedoo/Basic-App-Test-Kotlin) <br>
+[Java](https://github.com/Wavedoo/Basic-App-Test-Java)
 
 ## The process
 The app took about 2 hours to make <br>
 I had a bit of trouble adapting to xml with a big issue slowing me down was not realizing I accidentally closed a LinearLayout <br>
 It was really fun to learn this stuff. Working with user input is much easier here than in Jetpack Compose.
+
 ## Screenshots
 <b>No inputs</b>
 <br>
-<img src="https://github.com/Wavedoo/Basic-App-Tests/blob/master/screenshots/noinputs.jpg" height=600>
+<img src="/screenshots/noinputs.jpg/" alt="No inputs screenshot" height=600>
 <br>
 <b>All inputs</b>
 <br>
-<img src="https://github.com/Wavedoo/Basic-App-Tests/blob/master/screenshots/allinputs.jpg" height=600>
+<img src="screenshots/allinputs.jpg/" alt="No inputs screenshot" height=600>
+
