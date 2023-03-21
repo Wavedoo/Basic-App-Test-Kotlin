@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicAppTest</string>
+    <string name="grade_text">Enter grade (%)</string>
+    <string name="title">Grade Calculator</string>
+    <string name="weight_text">Enter weight (out of 100)</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result: %.1f</string>
+</resources>
